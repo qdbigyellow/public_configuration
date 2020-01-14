@@ -1,0 +1,33 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "websites": [
+    {
+      "url": "https://www.yr.no/sted/Danmark/Hovedstaden/Hellerup/time_for_time.html",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://calendar.google.com/calendar/r/month?pli=1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "http://192.168.0.6:3000/d/oVDquHPWz/yr-temperature?orgId=1&kiosk=tv&autofitpanels",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://borsen.dk/investor/",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
