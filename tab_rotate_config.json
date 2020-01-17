@@ -15,7 +15,7 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "http://192.168.0.6:3000/d/oVDquHPWz/yr-temperature?orgId=1&kiosk=tv&autofitpanels",
+      "url": "http://192.168.0.6:3000/d/YhQpqrEZz/yr-weather-table?orgId=1&kiosk=tv&autofitpanels&from=now-1h&to=now&refresh=30m",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
