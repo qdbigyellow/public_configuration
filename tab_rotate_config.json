@@ -6,28 +6,28 @@
   "websites": [
     {
       "url": "https://www.yr.no/sted/Danmark/Hovedstaden/Hellerup/time_for_time.html",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 15
+      "duration": 10,
+      "tabReloadIntervalSeconds": 8
     },
     {
       "url": "https://calendar.google.com/calendar/r/month?pli=1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 15
+      "duration": 10,
+      "tabReloadIntervalSeconds": 8
     },
     {
       "url": "http://192.168.0.6:3000/d/YhQpqrEZz/yr-weather-table?orgId=1&kiosk=tv&autofitpanels&from=now-1h&to=now&refresh=30m",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 15
+      "duration": 10,
+      "tabReloadIntervalSeconds": 8
     },
     {
       "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 15
+      "duration": 10,
+      "tabReloadIntervalSeconds": 8
     },
     {
       "url": "https://borsen.dk/investor/",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 15
+      "duration": 10,
+      "tabReloadIntervalSeconds": 8
     }
   ]
 }
