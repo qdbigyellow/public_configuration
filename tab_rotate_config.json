@@ -10,17 +10,17 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://calendar.google.com/calendar/r/month?pli=1",
+      "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
       "url": "https://trello.com/b/utCTglOI",
       "duration": 10,
-      "tabReloadIntervalSeconds": 600
+      "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
+      "url": "https://app.cyfe.com/dashboards/928672",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
@@ -30,10 +30,9 @@
       "tabReloadIntervalSeconds": 600
     },
     {
-      "url": "https://app.cyfe.com/dashboards/928672",
+      "url": "https://calendar.google.com/calendar/r/month?pli=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     }
-    
   ]
 }
