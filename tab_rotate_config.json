@@ -28,6 +28,12 @@
       "url": "https://borsen.dk/investor/",
       "duration": 10,
       "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://app.cyfe.com/dashboards/928672",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 1800
     }
+    
   ]
 }
