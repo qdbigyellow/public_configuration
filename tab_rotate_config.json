@@ -15,12 +15,17 @@
       "tabReloadIntervalSeconds": 600
     },
     {
+      "url": "https://www.bloomberg.com/markets/watchlist",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
       "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://app.cyfe.com/dashboards/928672",
+      "url": "https://www.yr.no/sted/Danmark/Hovedstaden/Hellerup/time_for_time.html",
       "duration": 5,
       "tabReloadIntervalSeconds": 1800
     },
