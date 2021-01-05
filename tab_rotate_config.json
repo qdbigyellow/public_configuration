@@ -40,6 +40,11 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
+      "url": "http://192.168.1.102:9090/graph?g0.expr=nordea_loan_rate&g0.tab=0&g0.stacked=0&g0.range_input=2w",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
       "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
