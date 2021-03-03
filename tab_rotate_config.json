@@ -5,8 +5,8 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "https://www.yr.no/nb/v%C3%A6rvarsel/graf/2-2620516/Danmark/Region%20Hovedstaden/Gentofte/Hellerup",
-      "duration": 5,
+      "url": "https://markets.businessinsider.com/indices/world-stock-markets",
+      "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
@@ -30,8 +30,8 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://www.dmi.dk/lokation/show/DK/2620516/Hellerup/#vejrgrafer",
-      "duration": 10,
+      "url": "https://www.yr.no/nb/v%C3%A6rvarsel/graf/2-2620516/Danmark/Region%20Hovedstaden/Gentofte/Hellerup",
+      "duration": 5,
       "tabReloadIntervalSeconds": 1800
     },
     {
