@@ -5,42 +5,42 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "http://192.168.1.102:8002/0.png",
+      "url": "https://markets.businessinsider.com/indices/world-stock-markets",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/1.png",
+      "url": "https://finviz.com/forex.ashx",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/2.png",
+      "url": "https://finviz.com/groups.ashx",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/3.png",
+      "url": "https://finviz.com/map.ashx?t=sec",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/4.png",
+      "url": "https://finviz.com/map.ashx?t=geo",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/5.png",
+      "url": "https://www.yr.no/nb/v%C3%A6rvarsel/graf/2-2620516/Danmark/Region%20Hovedstaden/Gentofte/Hellerup",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
+      "url": "http://192.168.1.102:9090/graph?g0.expr=nordea_loan_rate&g0.tab=0&g0.stacked=0&g0.range_input=2w",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/6.png",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "http://192.168.1.102:8002/7.png",
+      "url": "http://192.168.1.102:9090/graph?g0.expr=el_overblik&g0.tab=0&g0.stacked=0&g0.range_input=4w",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
