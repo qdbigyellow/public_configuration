@@ -26,3 +26,6 @@ marco economics ,https://tradingeconomics.com/calendar#,  Financial,  marco.
 
 **Travel**
 Turkey and Greece resort, https://www.nazar.dk/,  Travel,  resort, charter.
+
+**Knowledge**
+Ebooks   https://honeypdf.com/,  book, knowledge, 
