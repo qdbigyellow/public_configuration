@@ -25,7 +25,12 @@ Loan，Lån compare,   https://www.lendo.dk/,   Financial,  Loan, compare
 marco economics ,https://tradingeconomics.com/calendar#,  Financial,  marco.
 
 **Travel**
+
 Turkey and Greece resort, https://www.nazar.dk/,  Travel,  resort, charter.
 
 **Knowledge**
+
 Ebooks   https://honeypdf.com/,  book, knowledge, 
+
+**Entertainment**
+努努影院  http://www.nnu2.com/ ， video，cartoon
