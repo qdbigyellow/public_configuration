@@ -18,6 +18,14 @@ Pulumi (https://www.pulumi.com/), Tools,  infrastructure-from-code, ifc
 
 RATH https://github.com/Kanaries/Rath,  Tools, BI, OpenSource, 
 
+Cursor: https://www.cursor.so/,  Editor, AI, GPT4
+
+Bloop.ai: https://bloop.ai,  Code Analysis, GPT4
+
+小众软件：https://www.appinn.com， Tools, 
+
+Chatyoutube: https://chatyoutube.com/， AI， Analysis Youtube Video, GPT
+
 **Financial**
 
 Loan，Lån compare,   https://www.lendo.dk/,   Financial,  Loan, compare
