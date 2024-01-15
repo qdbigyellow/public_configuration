@@ -5,50 +5,49 @@
   "lazyLoadTabs": false,
   "websites": [
     {
-      "url": "http://192.168.1.102:8002/0.png",
+      "url": "https://finviz.com/forex.ashx",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/1.png",
+      "url": "https://finviz.com/groups.ashx",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/2.png",
+      "url": "https://finviz.com/map.ashx?t=sec",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/3.png",
+      "url": "https://finviz.com/map.ashx?t=geo",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/4.png",
+      "url": "https://www.yr.no/nb/v%C3%A6rvarsel/graf/2-2620516/Danmark/Region%20Hovedstaden/Gentofte/Hellerup",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 1800
+    },
+    {
+      "url": "https://www.jyskebank.dk/bolig/boliglaan/kurser/rente-kurs-udvikling",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/5.png",
+      "url": "http://192.168.1.120:8050/",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/6.png",
+      "url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.102:8002/7.png",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 1800
-    },
-    {
-      "url": "https://photos.app.goo.gl/3mIwBNQBfo115RPx1",
+      "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
       "duration": 10,
       "tabReloadIntervalSeconds": 1800
     }
   ]
 }
-
