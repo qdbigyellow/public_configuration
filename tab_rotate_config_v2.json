@@ -6,17 +6,17 @@
   "websites": [
     {
       "url": "https://finviz.com/forex.ashx",
-      "duration": 20,
+      "duration": 30,
       "tabReloadIntervalSeconds": 900
     },
     {
       "url": "https://finviz.com/map.ashx?t=sec",
-      "duration": 20,
+      "duration": 30,
       "tabReloadIntervalSeconds": 900
     },
     {
       "url": "https://finviz.com/map.ashx?t=geo",
-      "duration": 20,
+      "duration": 30,
       "tabReloadIntervalSeconds": 900
     },
     {
@@ -31,22 +31,22 @@
     },
     {
       "url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 900
     },
     {
       "url": "https://finviz.com/quote.ashx?t=U&p=d",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 900
     }
     {
       "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 900
     },
     {
       "url": "https://tradingeconomics.com/danske:dc",
-      "duration": 10,
+      "duration": 20,
       "tabReloadIntervalSeconds": 900
     },
   ]
