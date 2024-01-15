@@ -10,11 +10,6 @@
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url": "https://finviz.com/groups.ashx",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
       "url": "https://finviz.com/map.ashx?t=sec",
       "duration": 20,
       "tabReloadIntervalSeconds": 900
@@ -30,11 +25,6 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "https://www.jyskebank.dk/bolig/boliglaan/kurser/rente-kurs-udvikling",
-      "duration": 5,
-      "tabReloadIntervalSeconds": 14400
-    },
-    {
       "url": "http://192.168.1.120:8050/",
       "duration": 5,
       "tabReloadIntervalSeconds": 14400
@@ -45,9 +35,19 @@
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
+      "url": "https://finviz.com/quote.ashx?t=U&p=d",
       "duration": 10,
       "tabReloadIntervalSeconds": 900
     }
+    {
+      "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 900
+    },
+    {
+      "url": "https://tradingeconomics.com/danske:dc",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 900
+    },
   ]
 }
