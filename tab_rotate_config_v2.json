@@ -38,7 +38,7 @@
       "url": "https://finviz.com/quote.ashx?t=U&p=d",
       "duration": 20,
       "tabReloadIntervalSeconds": 900
-    }
+    },
     {
       "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
       "duration": 20,
