@@ -53,7 +53,11 @@
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 1800
+    }, 
+    {
+      "url": "https://calendar.google.com/calendar/u/0/r/agenda",
+      "duration": 20,
+      "tabReloadIntervalSeconds": 1800
     }
-    
-  ]
+      ]
 }
