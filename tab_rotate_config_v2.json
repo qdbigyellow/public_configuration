@@ -30,22 +30,7 @@
       "tabReloadIntervalSeconds": 14400
     },
     {
-      "url": "https://finviz.com/quote.ashx?t=QQQ&p=d",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
-      "url": "https://finviz.com/quote.ashx?t=U&p=d",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
-      "url": "https://finviz.com/quote.ashx?t=SPY&p=d",
-      "duration": 20,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
-      "url": "https://tradingeconomics.com/danske:dc",
+      "url": "http://192.168.1.120:3000/public-dashboards/9ac22739c2b54703bc5aeff56331b181?orgId=1&refresh=2h&from=now-365d&to=now",
       "duration": 20,
       "tabReloadIntervalSeconds": 900
     }, 
