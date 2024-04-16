@@ -6,18 +6,18 @@
   "websites": [
     {
       "url": "https://finviz.com/forex.ashx",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 900
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://finviz.com/map.ashx?t=sec",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 900
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://finviz.com/map.ashx?t=geo",
-      "duration": 30,
-      "tabReloadIntervalSeconds": 900
+      "duration": 20,
+      "tabReloadIntervalSeconds": 300
     },
     {
       "url": "https://www.yr.no/nb/v%C3%A6rvarsel/graf/2-2620516/Danmark/Region%20Hovedstaden/Gentofte/Hellerup",
@@ -26,27 +26,27 @@
     },
     {
       "url": "http://192.168.1.120:8050/",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 14400
     },
     {
       "url": "http://192.168.1.120:3000/public-dashboards/9ac22739c2b54703bc5aeff56331b181?orgId=1&refresh=2h&from=now-365d&to=now",
-      "duration": 20,
+      "duration": 15,
       "tabReloadIntervalSeconds": 900
     }, 
     {
       "url": "https://www.dr.dk/nyheder",
-      "duration": 5,
+      "duration": 10,
       "tabReloadIntervalSeconds": 900
     },    
     {
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
-      "duration": 20,
+      "duration": 15,
       "tabReloadIntervalSeconds": 1800
     }, 
     {
       "url": "https://calendar.google.com/calendar/u/0/r/agenda",
-      "duration": 20,
+      "duration": 15,
       "tabReloadIntervalSeconds": 1800
     }
       ]
