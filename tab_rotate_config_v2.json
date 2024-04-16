@@ -25,7 +25,7 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.120:8050/",
+      "url": "http://192.168.1.120:3000/public-dashboards/b1715fe195b04f60b3751ec0e456ba0b?orgId=1&from=now-6M&to=now",
       "duration": 10,
       "tabReloadIntervalSeconds": 14400
     },
@@ -36,7 +36,7 @@
     }, 
     {
       "url": "https://www.dr.dk/nyheder",
-      "duration": 10,
+      "duration": 15,
       "tabReloadIntervalSeconds": 900
     },    
     {
