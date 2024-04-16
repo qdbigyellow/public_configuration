@@ -35,6 +35,11 @@
       "tabReloadIntervalSeconds": 900
     }, 
     {
+      "url": "https://www.dr.dk/nyheder",
+      "duration": 5,
+      "tabReloadIntervalSeconds": 900
+    },    
+    {
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
       "duration": 20,
       "tabReloadIntervalSeconds": 1800
