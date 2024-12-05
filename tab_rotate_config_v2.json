@@ -30,7 +30,7 @@
       "tabReloadIntervalSeconds": 14400
     },
     {
-      "url": "http://107.174.192.185:3000/public-dashboards/d79cf096ed714207a674f59627550ed8?orgId=1&refresh=2h&from=now-365d&to=now",
+      "url": "http://107.174.192.185:3000/public-dashboards/84771f3966254eb3856c127a9340df52?orgId=1&refresh=2h&from=now-365d&to=now",
       "duration": 15,
       "tabReloadIntervalSeconds": 900
     }, 
