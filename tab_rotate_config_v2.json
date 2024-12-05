@@ -25,12 +25,12 @@
       "tabReloadIntervalSeconds": 1800
     },
     {
-      "url": "http://192.168.1.120:3000/public-dashboards/b1715fe195b04f60b3751ec0e456ba0b?orgId=1&from=now-6M&to=now&refresh=1d",
+      "url": "http://107.174.192.185:3000/public-dashboards/98ef0dd31aed4ce9b84a3f632c7a9e8d?orgId=1&from=now-6M&to=now&refresh=1d",
       "duration": 10,
       "tabReloadIntervalSeconds": 14400
     },
     {
-      "url": "http://192.168.1.120:3000/public-dashboards/9ac22739c2b54703bc5aeff56331b181?orgId=1&refresh=2h&from=now-365d&to=now",
+      "url": "http://107.174.192.185:3000/public-dashboards/d79cf096ed714207a674f59627550ed8?orgId=1&refresh=2h&from=now-365d&to=now",
       "duration": 15,
       "tabReloadIntervalSeconds": 900
     }, 
