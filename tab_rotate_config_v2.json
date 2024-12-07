@@ -35,8 +35,8 @@
       "tabReloadIntervalSeconds": 900
     }, 
     {
-      "url": "https://www.dr.dk/nyheder",
-      "duration": 15,
+      "url": "http://107.174.192.185:3000/public-dashboards/a1b19944bb33423198ff0544dfac349c?orgId=1&refresh=15m",
+      "duration": 20,
       "tabReloadIntervalSeconds": 900
     },    
     {
