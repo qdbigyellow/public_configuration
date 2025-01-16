@@ -40,6 +40,11 @@
       "tabReloadIntervalSeconds": 900
     },    
     {
+      "url": "http://107.174.192.185:3000/public-dashboards/8ca022671d63439b933e1646a2061493?orgId=1&refresh=30m",
+      "duration": 25,
+      "tabReloadIntervalSeconds": 1800
+    },   
+    {
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
       "duration": 15,
       "tabReloadIntervalSeconds": 1800
