@@ -33,17 +33,7 @@
       "url": "http://107.174.192.185:3000/public-dashboards/84771f3966254eb3856c127a9340df52?orgId=1&refresh=2h&from=now-365d&to=now",
       "duration": 15,
       "tabReloadIntervalSeconds": 900
-    }, 
-    {
-      "url": "http://107.174.192.185:3000/public-dashboards/a1b19944bb33423198ff0544dfac349c?orgId=1&refresh=15m",
-      "duration": 25,
-      "tabReloadIntervalSeconds": 900
-    },    
-    {
-      "url": "http://107.174.192.185:3000/public-dashboards/8ca022671d63439b933e1646a2061493?orgId=1&refresh=30m",
-      "duration": 25,
-      "tabReloadIntervalSeconds": 1800
-    },   
+    },     
     {
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
       "duration": 15,
