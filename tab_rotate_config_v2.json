@@ -44,6 +44,11 @@
       "url": "https://trello.com/b/1uyAnQ02/al",
       "duration": 10,
       "tabReloadIntervalSeconds": 300
+    },
+    {
+      "url": "http://10.0.0.25:8091/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 1800
     },    
     {
       "url": "https://calendar.google.com/calendar/u/0/r/tasks?opentasks=1",
