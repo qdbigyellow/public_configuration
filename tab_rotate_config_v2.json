@@ -30,16 +30,10 @@
       "tabReloadIntervalSeconds": 14400
     },
     {
-      "url": "http://107.174.192.185:3000/public-dashboards/84771f3966254eb3856c127a9340df52?orgId=1&refresh=2h&from=now-365d&to=now",
-      "duration": 10,
-      "tabReloadIntervalSeconds": 900
-    },
-    {
-      "url": "http://192.168.1.115:8001",
+      "url": "http://10.0.0.25:8001",
       "duration": 10,
       "tabReloadIntervalSeconds": 300
     },
-
     {
       "url": "https://trello.com/b/1uyAnQ02/al",
       "duration": 10,
