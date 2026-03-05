@@ -1,8 +1,9 @@
 {
   "settingsReloadIntervalMinutes": 180,
-  "fullscreen": true,
+  "fullscreen": false,
   "autoStart": false,
   "lazyLoadTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://finviz.com/forex.ashx",
